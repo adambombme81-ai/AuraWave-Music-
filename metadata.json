@@ -1,0 +1,6 @@
+{
+  "name": "AuraWave",
+  "description": "Multi-source music player with YouTube, Spotify, and local music playback paired with mesmerizing audio-reactive live wallpapers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
